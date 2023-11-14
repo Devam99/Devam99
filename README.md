@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. I am currently a first year math student with an avid intrest in coding. I have prevoiusly worked on a rubik's cube solver that also generates an image based on the disription given to it. Looking forward to working on future projects
+
 
 <!--
 **Devam99/Devam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
